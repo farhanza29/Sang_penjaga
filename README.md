@@ -1,4 +1,4 @@
 # Sang_penjaga
-SANG PENJAGA merupakan game 3D platformer yang membantu mengenalkan motif batik dari kota cirebon
+SANG PENJAGA merupakan project game 3D platformer yang membantu mengenalkan motif batik dari kota cirebon
 
-Game ini dibuat menggunakan Unity 3D 2017.3.1f1
+Project game ini dibuat menggunakan Unity 3D 2017.3.1f1
